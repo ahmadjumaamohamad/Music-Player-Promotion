@@ -8,7 +8,9 @@ Introductory Websites &amp; Review
 - [ ] Preview the index.html
 - [ ] Demonstrate how computers communicate (must know vocabulary)
 - [ ] Complete first draft of music player
-- [ ] Music Player Case Study: record image of music player / transfer to computer (email, etc.) / transfer to 
+- [ ] Music Player Case Study: record image of music player / transfer to computer (email, etc.) 
+/ transfer to Explorer Folder of Music Player
+/ link to index.html (internal file, not server link)
 
 ### Copy these files into your Music Player Repository
 - Double Click on the index.html to render locally for immediate changes
@@ -27,7 +29,6 @@ Introductory Websites &amp; Review
 - Use Google to identify pieces of server name
    - for example gettyimages.ca | server-3-164-255-63.yyc51.r.cloudfront.net | 3.164.255.63 | yyc is Calgary in Airport Letters
 - Try Paired Programming and in a pair identifying the pieces of a server to ID location
-
 
 ---
 
