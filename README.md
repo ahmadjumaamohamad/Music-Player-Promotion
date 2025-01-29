@@ -13,7 +13,7 @@ Introductory Websites &amp; Review
      / link to ```index.html``` (internal file, not server link)
   - [ ] Submit GitHub URL through Google FORM (parent pathway)
 - [ ] Demosntration: What is a Browser (must know vocabulary)
-- [ ] Personalizing the ```index.html``` File
+- [ ] Checklist: Personalizing the ```index.html``` File
 - [ ] Grading, DATE: TBA
 
 ### Copy these files into your Music Player Repository
@@ -42,7 +42,8 @@ Introductory Websites &amp; Review
 ### Checklist for Case Study of Music Player | Wire Frame (Need Ratios for GUI)
 - What Does the Overall Layout look like
 - Where are the buttons and what do they look like (symbolic differences between buttons in 2D shapes)
-- Must list all the buttons and what they do, unique behaviours
+- Must list all the buttons and what they do, unique behaviours (be specific using other players like Spotify Behaviours)
+  - NOTE: Algorithm to change presentation of button on Hoverover & click
   - Quit
   - Play
   - Pause
@@ -55,8 +56,8 @@ Introductory Websites &amp; Review
   - Shuffle
   - Next
   - Previous
-- Where are the images (Introduction to Aspect Ratio)
-- What is the text and where is it (feedback to user)
+- Where are the images (Algorithm: Introduction to Aspect Ratio)
+- What is the text and where is it (Algorithm: feedback to user)
   - Position of Song
   - Time Remaining
   - Song Title
