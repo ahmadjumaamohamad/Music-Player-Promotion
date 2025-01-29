@@ -9,19 +9,19 @@ Introductory Websites &amp; Review
 
 ### Introducotry: HTML Credit
 
-TBA
+DUE: TBA
 
 ### Intermediate: Client-side 2 Credit
 
-TBA
+DUE: TBA
 
 ### Intermediate: Client-side 3 Credit
 
-TBA
+DUE: TBA
 
 ### Advanced: Server Side Credit
 
-TBA
+DUE: TBA
 
 ---
 
@@ -30,15 +30,14 @@ TBA
 - [ ] Preview the ```index.html```
 - [ ] Demonstrate: how computers communicate (must know vocabulary)
 - [ ] Complete first draft of music player & upload to GitHub Music Player Repository
+- [ ] Music Player Case Study, Theme of Player: name, description, image, colours that will be used
 - [ ] Music Player Case Study: record image of music player / transfer to computer (email, etc.) 
      / transfer to Explorer Folder of Music Player
      / link to ```index.html``` (internal file, not server link)
-  - [ ] Submit GitHub URL through Google FORM (parent pathway)
-- [ ] Demosntration: What is a Browser (must know vocabulary)
-
+- [ ] Submit GitHub URL through Google FORM (parent pathway)
+- [ ] Demostration: What is a Browser (must know vocabulary)
 
 - [ ] TBA Grading, DATE: Checklist, see Personalizing the ```index.html``` File
-
 
 - [ ] TBA Music Player Case Study, Grading, DATE: DIVs & Ratios
   - Introductory: Full Screen
@@ -49,6 +48,8 @@ TBA
 - [ ] TBA Advanced Grading: HTML5 & PHP Files, Folders, and File Content
       - HTML5 Prototyping Folder Necessary
       - PHP Prototyping Folder Necessary
+
+---
 
 ### GitHub: Music Player Repository
 - Big Greeen Buttons
@@ -73,6 +74,8 @@ TBA
   - Borrow idea of changing Window size
   - Borrow idea of DIVs
 
+---
+
 ### Demonstrate how computers communicate (must know vocabulary)
 - NOTE: must know vocabulary below
 - CDM / tracert [website.domain] | cisco.com
@@ -80,6 +83,8 @@ TBA
 - Use Google to identify pieces of server name
    - for example gettyimages.ca | server-3-164-255-63.yyc51.r.cloudfront.net | 3.164.255.63 | yyc is Calgary in Airport Letters
 - Try Paired Programming and in a pair identifying the pieces of a server to ID location
+
+---
 
 ### Complete first draft of music player & upload to GitHub Music Player Repository
 - Case Study | AI Digital Drawing Wire Frame | Paper & Pencil digitalized and included in index.html
@@ -150,37 +155,12 @@ TBA
 ### What is a Browser (must know vocabulary)
 - Inside computer to drives, using a pathway
 - Into Internet using http & port-80 or https & port-443 (IP sockets)
-
----
-
-# Ideas 
-
-### Collecting Information, Text & Links of HTML
-
-- Start content collection for music player
-- Introduce ideas of developer and influences | HTML Porfolio, simple changes
-- 
-- All 
-- Text explaination or description to go with each photo or image
-
-### R
-Note:
-- Notepad or Notepad++ will work
-- Using Chrome to point to Q: will work
+  - https/80 & https/443 are called sockets (the basics of hacking and cybersecurity)
 - / \ are used differently
-- https/80 & https/443 are called sockets (the basics of hacking and cybersecurity)
+  - / Instructions
+  - / URL outside of machine
+  - \ Pathway inside machine
 - Search Javascript in Chrome / Settings to see if Javascript can be turned off
-
-# Notes: concurrent activities to deal with tech issues, etc.
-- Create hosted repository
-- Create Folder Strucutre
-- Copy index.html, site.css, .js
-- Collect information for HTML Based on Case Study of Music Player
-- HTML
-     - Theme of Player: name, description, image, colours that will be used
-     - Text: player | related to individual music files
-     - Music 
-     - Image Links about music 
 
 ---
 
@@ -208,6 +188,18 @@ Note:
      - [ ] Adding reference features like Date Accessed
 
 ---
+
+# Music Player Repo ReadMe.md
+- HTML Credit Date, see https://github.com/QEHS-Websites/Music-Player-Promotion
+- Client-side 2 Date
+- Client-side 3 Date
+- Structured 1 Date
+- Structured 2 Date
+- Procedural 1 Date
+- Data Date
+- Files Date
+- Server-side Date
+- OOP Date
 
 # Next Steps
 - Developing Comments and PsudeoCode (Note, AI may suggest choices & must be at grade level)
