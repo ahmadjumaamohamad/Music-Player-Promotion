@@ -13,8 +13,12 @@ Introductory Websites &amp; Review
      / link to ```index.html``` (internal file, not server link)
   - [ ] Submit GitHub URL through Google FORM (parent pathway)
 - [ ] Demosntration: What is a Browser (must know vocabulary)
-- [ ] Checklist: Personalizing the ```index.html``` File
-- [ ] Grading, DATE: TBA
+- [ ] Grading, DATE: Checklist, see Personalizing the ```index.html``` File
+
+
+- What are the DIV Ratios (might need to do 2D Shapes first)
+
+
 
 ### Copy these files into your Music Player Repository
 - Double Click on the index.html to render locally for immediate changes
@@ -62,18 +66,22 @@ Introductory Websites &amp; Review
   - Time Remaining
   - Song Title
   - Advanced: ```Try``` Additional Items ( right click on mp3 / details ) ```Catch``` Null
-- What are the colours, day mode, dark mode, and night mode
+- What are the colours, day mode, dark mode, and night mode ( global design algorithms )
 
-- NOTE: Possibly images and Google Images to transfer to students
+- NOTE: able to transfer images using students Google Photos
 
-- NOTE: Music Player Functions are also required
-     - Must work these out with functions
-     - Given basic functions available ... List these for Paper and Pencil Activity, what a computer uses to think 
-     - Then mimic an end-user perspective
-- Then, add conditionals for catches (Intermediate)
-- Then, add autoplay
+- Advanced: autoplay changes all above buttons
+- Intermediate and Advanced CS Classes must do this part
+- Introductory should consider it
 
-- What are the DIV Ratios (might need to do 2D Shapes first)
+### Personalizing the ```index.html``` File
+- Change the HTML File to represent the Music Player Case Study | Wireframe
+- Introducotry: site.css & script.js optional
+- Intermediate: HTML in Flexbox, see https://www.w3schools.com/html/html_responsive.asp
+- Intermediate: JavaScript DOM, see https://www.w3schools.com/js/js_htmldom.asp
+- Advanced: JS JSON, see https://www.w3schools.com/js/js_json_intro.asp
+- Advanced: PHP, see https://www.w3schools.com/php/default.asp
+- Advanced: PHP Validation of Names, emails and URLs with record of user choices, see https://www.w3schools.com/php/php_forms.asp
 
 ### What is a Browser (must know vocabulary)
 - Inside computer to drives, using a pathway
@@ -88,7 +96,10 @@ Introductory Websites &amp; Review
 # HTML Credit, option with HTML5, how grading ends (should be no more than 7 items)
 
  | 
-- Collecting Information for the Music Player Case Study | HTML Image section, Text Sections
+- Collecting Information for the Music Player Case Study, able to have mutilple text-images & text-video sections
+- Purpose: creative3ly describing the music player
+
+
 - How has the HTML5 changed from the beginning file | TAB Text, TAB image, Title Text, Portfolio Section related to Developer of Music Player, Images added, Music Decribed, Video Option & YouTube API 
 - Reading through HTML5 and how HTML abstracts a Broswer TAB
 
