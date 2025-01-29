@@ -1,6 +1,24 @@
 # Music Player Promotion
 Introductory Websites &amp; Review
 
+# Rubrics for 
+
+### Introducotry: HTML Credit
+
+TBA
+
+### Intermediate: Client-side 2 Credit
+
+TBA
+
+### Intermediate: Client-side 3 Credit
+
+TBA
+
+### Advanced: Server Side Credit
+
+TBA
+
 ---
 
 # Progressions
@@ -15,10 +33,20 @@ Introductory Websites &amp; Review
 - [ ] Demosntration: What is a Browser (must know vocabulary)
 - [ ] Grading, DATE: Checklist, see Personalizing the ```index.html``` File
 
-
 - What are the DIV Ratios (might need to do 2D Shapes first)
 
-
+### GitHub 
+- Big Greeen Buttons
+- GitHub: create a repository and include ```github.io```
+- Settings / Pages / Branch / ```None``` to ```Main``` / Press ```SAVE```
+- Introduce computer instructions (must scan the screen for specific words with implied "click")
+- Settings / Pages / Will see Webpage URL (not local)
+- Copy HTML5 Files
+- Must save file / refresh locally to see changes immediately
+- Eventually GitHub Hosting will catch-up in the background
+- Folder Organizattion
+    - [ ] Images
+    - [ ] Videos | Readme.txt with links 
 
 ### Copy these files into your Music Player Repository
 - Double Click on the index.html to render locally for immediate changes
@@ -87,23 +115,11 @@ Introductory Websites &amp; Review
 - Inside computer to drives, using a pathway
 - Into Internet using http & port-80 or https & port-443 (IP sockets)
 
-### Personalizing the index.html File
-
 # Grading
-- Submit 
+- Submit GitHub Repository URL, parent pathway
+- Note: completing this is a grade itself
+
 ---
-
-# HTML Credit, option with HTML5, how grading ends (should be no more than 7 items)
-
- | 
-- Collecting Information for the Music Player Case Study, able to have mutilple text-images & text-video sections
-- Purpose: creative3ly describing the music player
-
-
-- How has the HTML5 changed from the beginning file | TAB Text, TAB image, Title Text, Portfolio Section related to Developer of Music Player, Images added, Music Decribed, Video Option & YouTube API 
-- Reading through HTML5 and how HTML abstracts a Broswer TAB
-
-- Where are we going with HTML5: .css overwriting (file, then head, then inline), script.js (same as .css), and DOMs
 
 ### Case Study of Music Player | Wire Frame (Need Ratios for GUI)
 
@@ -123,18 +139,6 @@ Introductory Websites &amp; Review
 - Then, add conditionals for catches (Intermediate)
 - Then, add autoplay
 
-### GitHub 
-- Big Greeen Buttons
-- GitHub: create a repository and include ```github.io```
-- Settings / Pages / Branch / ```None``` to ```Main``` / Press ```SAVE```
-- Introduce computer instructions (must scan the screen for specific words with implied "click")
-- Settings / Pages / Will see Webpage URL (not local)
-- Copy HTML5 Files
-- Must save file / refresh locally to see changes immediately
-- Eventually GitHub Hosting will catch-up in the background
-- Folder Organizattion
-    - [ ] Images
-    - [ ] Videos | Readme.txt with links 
 
 ### Collecting Information, Text & Links of HTML
 
@@ -175,7 +179,7 @@ Note:
 
 ---
 
-# To Include: HTML Rubric
+# To Include: Draft HTML Rubric
 
 ### Checklist
 
