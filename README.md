@@ -60,8 +60,8 @@ TBA
 - Must save file / refresh locally to see changes immediately
 - Eventually GitHub Hosting will catch-up in the background
 - Folder Organizattion
-    - [ ] Images
-    - [ ] Videos | Readme.txt with links 
+    - [ ] Images (URL or file)
+    - [ ] Music (mp3 files only), 3 maximum
 
 ### Copy these files into your Music Player Repository
 - Double Click on the index.html to render locally for immediate changes
@@ -119,11 +119,32 @@ TBA
 
 ### Personalizing the ```index.html``` File
 - Change the HTML File to represent the Music Player Case Study | Wireframe
+
 - Introducotry: site.css & script.js optional
+  - Change Text
+  - Change Images to be used in music player, associated with music files | theme (see AI about GIF Images and inline settings)
+  - Change Video: Introduce idea of YouTube Videos & APIs (not just the URL) | All Videos, associated with music files | theme
+
+  - Reading through HTML5 
+  - HTML: using <!-- comments -->
+  - Will indent blockquote sections 
+  - Semantic Tags
+  - Other Tags
+  - Finding more tages
+
+  - Add these tags to the HTML 
+
+  - Imges & Videos: <figure></figure> & <figcaption></figcaption>
+  - Who is the creator, with hyperlink: <cite a=""></cite>
+
 - Intermediate: HTML in Flexbox, see https://www.w3schools.com/html/html_responsive.asp
+
 - Intermediate: JavaScript DOM, see https://www.w3schools.com/js/js_htmldom.asp
+
 - Advanced: JS JSON, see https://www.w3schools.com/js/js_json_intro.asp
+
 - Advanced: PHP, see https://www.w3schools.com/php/default.asp
+
 - Advanced: PHP Validation of Names, emails and URLs with record of user choices, see https://www.w3schools.com/php/php_forms.asp
 
 ### What is a Browser (must know vocabulary)
@@ -132,44 +153,17 @@ TBA
 
 ---
 
-### Case Study of Music Player | Wire Frame (Need Ratios for GUI)
-
-- What Does the Overall Layout look like
-- Where are the buttons and what do they look like (symbolic differences between buttons in 2D shapes)
-- Where are the images (Introduction to Aspect Ratio)
-- What is the text and where is it (feedback to user)
-- What are the colours, day mode, dark mode, and night mode
-- What are the DIV Ratios (might need to do 2D Shapes first)
-
-- NOTE: Use images and Google Images to transfer to students
-
-- NOTE: Music Player Functions are also required
-     - Must work these out with functions
-     - Given basic functions available ... List these for Paper and Pencil Activity, what a computer uses to think 
-     - Then mimic an end-user perspective
-- Then, add conditionals for catches (Intermediate)
-- Then, add autoplay
-
+# Ideas 
 
 ### Collecting Information, Text & Links of HTML
 
 - Start content collection for music player
 - Introduce ideas of developer and influences | HTML Porfolio, simple changes
-- Introduce idea of YouTube Videos & APIs (not just the URL) | All Videos, associated with music files | theme
-- All Images to be used in music player, associated with music files | theme
+- 
+- All 
 - Text explaination or description to go with each photo or image
 
-### Reading through HTML5 
-- HTML: using <!-- comments -->
-- Will indent blockquote sections 
-- Semantic Tags
-- Other Tags
-- Finding more tages
-
-Add these tags to the HTML 
-- Imges & Videos: <figure></figure> & <figcaption></figcaption>
-- Who is the creator, with hyperlink: <cite a=""></cite>
-
+### R
 Note:
 - Notepad or Notepad++ will work
 - Using Chrome to point to Q: will work
