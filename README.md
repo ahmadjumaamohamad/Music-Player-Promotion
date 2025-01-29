@@ -5,13 +5,15 @@ Introductory Websites &amp; Review
 
 # Progressions
 - [ ] Copy these files into your Music Player Repository
-- [ ] Preview the index.html
-- [ ] Demonstrate how computers communicate (must know vocabulary)
+- [ ] Preview the ```index.html```
+- [ ] Demonstrate: how computers communicate (must know vocabulary)
 - [ ] Complete first draft of music player & upload to GitHub Music Player Repository
 - [ ] Music Player Case Study: record image of music player / transfer to computer (email, etc.) 
      / transfer to Explorer Folder of Music Player
-     / link to index.html (internal file, not server link)
+     / link to ```index.html``` (internal file, not server link)
   - [ ] Submit GitHub URL through Google FORM (parent pathway)
+- [ ] Demosntration: What is a Browser (must know vocabulary)
+- [ ] Personalizing the ```index.html``` File
 - [ ] Grading, DATE: TBA
 
 ### Copy these files into your Music Player Repository
@@ -37,16 +39,44 @@ Introductory Websites &amp; Review
 - GitHub & Internal Editting or Microsoft Visual Studio Code
 - Submit GitHub URL through Google FORM (parent pathway)
 
-# Grading
-- Submit 
----
+### Checklist for Case Study of Music Player | Wire Frame (Need Ratios for GUI)
+- What Does the Overall Layout look like
+- Where are the buttons and what do they look like (symbolic differences between buttons in 2D shapes)
+- Must list all the buttons and what they do, unique behaviours
+  - Quit
+  - Play
+  - Pause
+  - Stop
+  - Fast Forward
+  - Fast Reverse
+  - Mute
+  - Loop-Once
+  - Loop-infinite
+  - Shuffle
+  - Next
+  - Previous
+- Where are the images (Introduction to Aspect Ratio)
+- What is the text and where is it (feedback to user)
+- What are the colours, day mode, dark mode, and night mode
+- What are the DIV Ratios (might need to do 2D Shapes first)
 
-# Ideas 
+- NOTE: Possibly images and Google Images to transfer to students
 
-# What is a Browser (must know vocabulary)
+- NOTE: Music Player Functions are also required
+     - Must work these out with functions
+     - Given basic functions available ... List these for Paper and Pencil Activity, what a computer uses to think 
+     - Then mimic an end-user perspective
+- Then, add conditionals for catches (Intermediate)
+- Then, add autoplay
+### What is a Browser (must know vocabulary)
 - Inside computer to drives, using a pathway
 - Into Internet using http & port-80 or https & port-443 (IP sockets)
 
+### Personalizing the index.html File
+
+# Grading
+- Submit 
+---
 
 # HTML Credit, option with HTML5, how grading ends (should be no more than 7 items)
 
