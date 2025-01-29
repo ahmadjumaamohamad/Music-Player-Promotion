@@ -7,10 +7,12 @@ Introductory Websites &amp; Review
 - [ ] Copy these files into your Music Player Repository
 - [ ] Preview the index.html
 - [ ] Demonstrate how computers communicate (must know vocabulary)
-- [ ] Complete first draft of music player
+- [ ] Complete first draft of music player & upload to GitHub Music Player Repository
 - [ ] Music Player Case Study: record image of music player / transfer to computer (email, etc.) 
      / transfer to Explorer Folder of Music Player
      / link to index.html (internal file, not server link)
+  - [ ] Submit GitHub URL through Google FORM (parent pathway)
+- [ ] Grading, DATE: TBA
 
 ### Copy these files into your Music Player Repository
 - Double Click on the index.html to render locally for immediate changes
@@ -30,6 +32,13 @@ Introductory Websites &amp; Review
    - for example gettyimages.ca | server-3-164-255-63.yyc51.r.cloudfront.net | 3.164.255.63 | yyc is Calgary in Airport Letters
 - Try Paired Programming and in a pair identifying the pieces of a server to ID location
 
+### Complete first draft of music player & upload to GitHub Music Player Repository
+- Case Study | AI Digital Drawing Wire Frame | Paper & Pencil digitalized and included in index.html
+- GitHub & Internal Editting or Microsoft Visual Studio Code
+- Submit GitHub URL through Google FORM (parent pathway)
+
+# Grading
+- Submit 
 ---
 
 # Ideas 
@@ -40,8 +49,8 @@ Introductory Websites &amp; Review
 
 
 # HTML Credit, option with HTML5, how grading ends (should be no more than 7 items)
-- Case Study | AI Digital Drawing Wire Frame | Paper & Pencil digitalized and included in index.html
-- GitHub & Internal Editting or Microsoft Visual Studio Code | Submit URL through Google FORM
+
+ | 
 - Collecting Information for the Music Player Case Study | HTML Image section, Text Sections
 - How has the HTML5 changed from the beginning file | TAB Text, TAB image, Title Text, Portfolio Section related to Developer of Music Player, Images added, Music Decribed, Video Option & YouTube API 
 - Reading through HTML5 and how HTML abstracts a Broswer TAB
