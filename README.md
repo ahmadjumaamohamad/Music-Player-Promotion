@@ -57,8 +57,11 @@ Introductory Websites &amp; Review
   - Previous
 - Where are the images (Introduction to Aspect Ratio)
 - What is the text and where is it (feedback to user)
+  - Position of Song
+  - Time Remaining
+  - Song Title
+  - Advanced: ```Try``` Additional Items ( right click on mp3 / details ) ```Catch``` Null
 - What are the colours, day mode, dark mode, and night mode
-- What are the DIV Ratios (might need to do 2D Shapes first)
 
 - NOTE: Possibly images and Google Images to transfer to students
 
@@ -68,6 +71,9 @@ Introductory Websites &amp; Review
      - Then mimic an end-user perspective
 - Then, add conditionals for catches (Intermediate)
 - Then, add autoplay
+
+- What are the DIV Ratios (might need to do 2D Shapes first)
+
 ### What is a Browser (must know vocabulary)
 - Inside computer to drives, using a pathway
 - Into Internet using http & port-80 or https & port-443 (IP sockets)
