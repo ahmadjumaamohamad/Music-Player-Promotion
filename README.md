@@ -17,6 +17,8 @@ Introductory Websites &amp; Review
 ### Preview the index.html for
 - WHITE Text & Changes
 - What a DIV means & What a changing WINDOW Size (viewport in HTML5) means
+  - Borrow idea of changing Window size
+  - Borrow idea of DIVs
 
 ### Demonstrate how computers communicate (must know vocabulary)
 - NOTE: must know vocabulary below
@@ -26,8 +28,6 @@ Introductory Websites &amp; Review
    - for example gettyimages.ca | server-3-164-255-63.yyc51.r.cloudfront.net | 3.164.255.63 | yyc is Calgary in Airport Letters
 - Try Paired Programming and in a pair identifying the pieces of a server to ID location
 
-- Borrow idea of changing Window size
-- Borrow idea of DIVs
 
 ---
 
