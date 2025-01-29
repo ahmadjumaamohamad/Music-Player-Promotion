@@ -3,6 +3,10 @@ Introductory Websites &amp; Review
 
 # Rubrics for 
 
+### Grading
+- Submit GitHub Repository URL, parent pathway, in Google FORM
+- Note: completing this is a grade itself and has a due date
+
 ### Introducotry: HTML Credit
 
 TBA
@@ -31,11 +35,22 @@ TBA
      / link to ```index.html``` (internal file, not server link)
   - [ ] Submit GitHub URL through Google FORM (parent pathway)
 - [ ] Demosntration: What is a Browser (must know vocabulary)
-- [ ] Grading, DATE: Checklist, see Personalizing the ```index.html``` File
 
-- What are the DIV Ratios (might need to do 2D Shapes first)
 
-### GitHub 
+- [ ] TBA Grading, DATE: Checklist, see Personalizing the ```index.html``` File
+
+
+- [ ] TBA Music Player Case Study, Grading, DATE: DIVs & Ratios
+      - Introductory: Full Screen
+      - Intermediate: Button / Single Menu
+      - Advanced: Button(s) / Multiple Menus
+- [ ] TBA Grading Intermediate: HTML5 Files, Folders, and File Content
+      - HTML5 Prototyping Folder Necessary
+- [ ] TBA Advanced Grading: HTML5 & PHP Files, Folders, and File Content
+      - HTML5 Prototyping Folder Necessary
+      - PHP Prototyping Folder Necessary
+
+### GitHub: Music Player Repository
 - Big Greeen Buttons
 - GitHub: create a repository and include ```github.io```
 - Settings / Pages / Branch / ```None``` to ```Main``` / Press ```SAVE```
@@ -114,10 +129,6 @@ TBA
 ### What is a Browser (must know vocabulary)
 - Inside computer to drives, using a pathway
 - Into Internet using http & port-80 or https & port-443 (IP sockets)
-
-# Grading
-- Submit GitHub Repository URL, parent pathway
-- Note: completing this is a grade itself
 
 ---
 
@@ -201,3 +212,20 @@ Note:
 
 - 80-100%: Creativbity answering I can visually image your music player
      - [ ] Adding reference features like Date Accessed
+
+---
+
+# Next Steps
+- Developing Comments and PsudeoCode (Note, AI may suggest choices & must be at grade level)
+- Loading Music in Processing
+- Prototyping 2D Shapes in Processing, using 1/2 Fold Progressions (refer to drawings and sybloic meaning developed in Case Study)
+- Prototyping 2D Images as Background and in a DIV, no aspect ration
+- Prototyping 2D Images using Aspect Ratio
+- Prototyping 2D Images CENTERED, LEFT, RIGHT, TOP, Middle, BOTTOM
+- Prototyping Text with SIZE as Developer hard-coded
+- Prototyping Large Display CANVAS Checker
+- Prototyping Smallest Menu with CANVAS Checker: what buttons and informaton to include
+- Prototyping Larger Incremental Menu Sizes: what additional information to include
+- Prototyping Object Orientated Programming Music Class in Pong as a Button
+
+---
