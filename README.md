@@ -41,9 +41,9 @@ TBA
 
 
 - [ ] TBA Music Player Case Study, Grading, DATE: DIVs & Ratios
-      - Introductory: Full Screen
-      - Intermediate: Button / Single Menu
-      - Advanced: Button(s) / Multiple Menus
+  - Introductory: Full Screen
+  - Intermediate: Button / Single Menu
+  - Advanced: Button(s) / Multiple Menus
 - [ ] TBA Grading Intermediate: HTML5 Files, Folders, and File Content
       - HTML5 Prototyping Folder Necessary
 - [ ] TBA Advanced Grading: HTML5 & PHP Files, Folders, and File Content
