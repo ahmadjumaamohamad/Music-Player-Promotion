@@ -9,8 +9,8 @@ Introductory Websites &amp; Review
 - [ ] Demonstrate how computers communicate (must know vocabulary)
 - [ ] Complete first draft of music player
 - [ ] Music Player Case Study: record image of music player / transfer to computer (email, etc.) 
-/ transfer to Explorer Folder of Music Player
-/ link to index.html (internal file, not server link)
+     / transfer to Explorer Folder of Music Player
+     / link to index.html (internal file, not server link)
 
 ### Copy these files into your Music Player Repository
 - Double Click on the index.html to render locally for immediate changes
