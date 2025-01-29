@@ -4,18 +4,22 @@ Introductory Websites &amp; Review
 ---
 
 # Progressions
+- [ ] Copy these files into your Music Player Repository
+- [ ] Preview the index.html
+- [ ] Demonstrate how computers communicate (must know vocabulary)
+- [ ] Complete first draft of music player
+- [ ] Music Player Case Study: record image of music player / transfer to computer (email, etc.) / transfer to 
 
 ### Copy these files into your Music Player Repository
+- Double Click on the index.html to render locally for immediate changes
+- Global rendering requires a hosted website (see Music Player Repository)
 
-Render the index.html locally
-Render the index.html globally
+### Preview the index.html for
+- WHITE Text & Changes
+- What a DIV means & What a changing WINDOW Size (viewport in HTML5) means
 
----
-
-# Ideas 
-
-# Introductions to how computers work and communicate
-
+### Demonstrate how computers communicate (must know vocabulary)
+- NOTE: must know vocabulary below
 - CDM / tracert [website.domain] | cisco.com
 - IPv4 is DNS, what a computer uses
 - Use Google to identify pieces of server name
@@ -26,6 +30,13 @@ Render the index.html globally
 - Borrow idea of DIVs
 
 ---
+
+# Ideas 
+
+# What is a Browser (must know vocabulary)
+- Inside computer to drives, using a pathway
+- Into Internet using http & port-80 or https & port-443 (IP sockets)
+
 
 # HTML Credit, option with HTML5, how grading ends (should be no more than 7 items)
 - Case Study | AI Digital Drawing Wire Frame | Paper & Pencil digitalized and included in index.html
