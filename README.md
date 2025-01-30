@@ -144,7 +144,7 @@ DUE: TBA
   - Imges & Videos: <figure></figure> & <figcaption></figcaption>
   - Who is the creator, with hyperlink: <cite a=""></cite>
 
-- Intermediate: HTML in Flexbox, see https://www.w3schools.com/html/html_responsive.asp
+- Intermediate: HTML in Responsive Design, see https://www.w3schools.com/html/html_responsive.asp
 
 - Intermediate: JavaScript DOM, see https://www.w3schools.com/js/js_htmldom.asp
 
