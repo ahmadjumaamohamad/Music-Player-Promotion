@@ -31,6 +31,8 @@ DUE: TBA
 - [ ] Demonstrate: how computers communicate (must know vocabulary)
 - [ ] Complete first draft of music player & upload to GitHub Music Player Repository
 - [ ] Music Player Case Study, Theme of Player: name, description, image, colours that will be used
+  - [ ] Intermeidate: click buton, then rect() with interface on it
+  - [ ] Advanced: click button, then rect() displaying different amounts of information
 - [ ] Music Player Case Study: record image of music player / transfer to computer (email, etc.) 
      / transfer to Explorer Folder of Music Player
      / link to ```index.html``` (internal file, not server link)
