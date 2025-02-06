@@ -15,6 +15,25 @@ https://github.com/MercersKitchen/Review-Music-Player-20250131-P4-github.io
 - Submit GitHub Repository URL, parent pathway, in Google FORM
 - Note: completing this is a grade itself and has a due date
 
+### Repository Files, Folder Structure, and Submitted Host URL
+- See: TBA
+
+DUE TBA
+
+### Music Player Case Study & Wire Frame
+- Introductyory is Strucuted as entire Display in fullScreen()
+- Intermediate is procedural as size() of fullScreen() with check of geometry
+- Advanced is OOP as size() of symmetrical game-interrupt with check for symetry (i.e. ball dounces around in music rect() as faded image)
+- See Google Prototyping, Rapid Prototyping by Sketching: https://www.youtube.com/watch?v=JMjozqJS44M
+  - [ ] Materials Design
+  - [ ] Functionality
+- [ ] DIVs & Ratios
+- [ ] Upload Sketch & DIVs-with-numbers images to index.html
+  - See: https://photos.app.goo.gl/xA2Py4h82E1ydSsm8
+  - NOTE: might need to open this Google Photos URL with an INCOGNITO Tab
+
+DUE: TBA
+
 ### Introducotry: HTML Credit
 
 DUE: TBA
