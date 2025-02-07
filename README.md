@@ -16,21 +16,29 @@ https://github.com/MercersKitchen/Review-Music-Player-20250131-P4-github.io
 - Note: completing this is a grade itself and has a due date
 
 ### Repository Files, Folder Structure, and Submitted Host URL
-- See: TBA
+- Folder Structure, each with ReadMe.txt: Images | Lesson Prototyping | Music | Music App | Website Dependancies
+- [ ] Website Dependancies
+  - [ ] Folder Structure: favicon | child Pages | Images (specific to website only)
 
 DUE TBA
 
 ### Music Player Case Study & Wire Frame
-- Introductyory is Strucuted as entire Display in fullScreen()
-- Intermediate is procedural as size() of fullScreen() with check of geometry
-- Advanced is OOP as size() of symmetrical game-interrupt with check for symetry (i.e. ball dounces around in music rect() as faded image)
+- Purpose: Develop the creative-AI of the music player
+- Purpose: Create the first image of website from a piece of paper
+- Introductyory is ```structured``` as entire Display in fullScreen()
+- Intermediate is ```procedural``` as size() of fullScreen() with check of geometry
+- Advanced is ```OOP``` as size() of symmetrical game-interrupt with check for symetry (i.e. ball dounces around in music rect() as faded image)
 - See Google Prototyping, Rapid Prototyping by Sketching: https://www.youtube.com/watch?v=JMjozqJS44M
-  - [ ] Materials Design
-  - [ ] Functionality
-- [ ] DIVs & Ratios
+  - [ ] Draft Version: what this generally look like
+  - [ ] Text Version: general hard-coded Text & text from .mp3 meta-data
+  - [ ] Materials Design: described in margins | actually built with paper like Google Video
+  - [ ] Functionality: described in margins | actually built with paper like Google Video
+- [ ] DIVs & Ratio, Thinking-Like-a-Computer (TLC):
+  - [ ] for every piece of Text, 2D Shape, and Image represent this by a rect()
+  - [ ] record ```coordinates``` of where to start the rect() drawing & width & height separately
 - [ ] Upload Sketch & DIVs-with-numbers images to index.html
   - See: https://photos.app.goo.gl/xA2Py4h82E1ydSsm8
-  - NOTE: might need to open this Google Photos URL with an INCOGNITO Tab
+  - NOTE: might need to open this Google Photos URL with an INCOGNITO Tab if not logged into Chrome with School-based email
 
 DUE: TBA
 
