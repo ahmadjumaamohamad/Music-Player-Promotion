@@ -24,7 +24,8 @@ DUE TBA
 
 ### Music Player Case Study & Wire Frame
 - Purpose: Develop the creative-AI of the music player
-- Purpose: Create the first image of website from a piece of paper
+- Purpose: Create the first image of website from a piece of paper that is digitalized
+- Purpose: Use Internet Images and YouTube videos to develop instructions, ideas, colour schemes & design, music-based art, etc.
 - Introductyory is ```structured``` as entire Display in fullScreen()
 - Intermediate is ```procedural``` as size() of fullScreen() with check of geometry
 - Advanced is ```OOP``` as size() of symmetrical game-interrupt with check for symetry (i.e. ball dounces around in music rect() as faded image)
