@@ -42,22 +42,39 @@ DUE TBA
   - NOTE: might need to open this Google Photos URL with an INCOGNITO Tab if not logged into Chrome with School-based email
 
 DUE: TBA
+- Part of introduction
+- Introductory uses ``fullScreen()```
+- Intermediate-Advanced uses button
 
-### Introducotry: HTML Credit
+### Introductory: HTML Credit
 
 DUE: TBA
+- 1 Week for intro & web tools
+- ~3 weeks for HTML: 20250226
 
 ### Intermediate: Client-side 2 Credit
 
-DUE: TBA
+DUE: 20250303
+- 1 week for intro & web tools
+- 2 weeks for HTML & GitHub Files
+- ~3 weeks, HTML in Responsive Design, see https://www.w3schools.com/html/html_responsive.asp
 
 ### Intermediate: Client-side 3 Credit
 
-DUE: TBA
+DUE: 20250321 (Before Spring Break in Sem 2)
+- ~3 weeks JavaScript DOM, see https://www.w3schools.com/js/js_htmldom.asp
 
 ### Advanced: Server Side Credit
 
-DUE: TBA
+DUE: 20250305
+- ~2 weeks review and HTML, CSS
+- ~1 week, JS DOM, see https://www.w3schools.com/js/js_htmldom.asp
+- ~3 weeks PHP, see https://www.w3schools.com/php/default.asp
+- PHP Validation of Names, emails and URLs with record of user choices, see https://www.w3schools.com/php/php_forms.asp
+
+** Transfer to Review Music Player **
+- Music Player in Procedural
+- Create OOP Class for Music Player
 
 ---
 
