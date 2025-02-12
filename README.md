@@ -22,14 +22,19 @@ https://github.com/MercersKitchen/Review-Music-Player-20250131-P4-github.io
 
 DUE TBA
 
-### Music Player Case Study & Wire Frame
+# Music Player Case Study & Wire Frame
 - Purpose: Develop the creative-AI of the music player
 - Purpose: Create the first image of website from a piece of paper that is digitalized
 - Purpose: Use Internet Images and YouTube videos to develop instructions, ideas, colour schemes & design, music-based art, etc.
 - Introductyory is ```structured``` as entire Display in fullScreen()
 - Intermediate is ```procedural``` as size() of fullScreen() with check of geometry
 - Advanced is ```OOP``` as size() of symmetrical game-interrupt with check for symetry (i.e. ball dounces around in music rect() as faded image)
+
+### Introduction Video for Paper and Pencil Prototyping
+- CAUTION: what AI-Images must consider
 - See Google Prototyping, Rapid Prototyping by Sketching: https://www.youtube.com/watch?v=JMjozqJS44M
+
+### Differnet Versions of the Case Study
   - [ ] Draft Version: what this generally look like
   - [ ] Text Version: general hard-coded Text & text from .mp3 meta-data
   - [ ] Materials Design: described in margins | actually built with paper like Google Video
@@ -43,8 +48,12 @@ DUE TBA
 
 DUE: TBA
 - Part of introduction
-- Introductory uses ``fullScreen()```
+- Introductory uses ```fullScreen()```
 - Intermediate-Advanced uses button
+
+---
+
+# Course Dependent Credits and Descriptions
 
 ### Introductory: HTML Credit
 
