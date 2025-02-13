@@ -31,8 +31,10 @@ DUE See Google Classroom
 ### Introduction Video for Paper and Pencil Prototyping
 - CAUTION: what AI-Images must consider
 - See Google Prototyping, Rapid Prototyping by Sketching: https://www.youtube.com/watch?v=JMjozqJS44M
+- Paper & Pencil Case Study Images from Mr. Mercer, see: https://photos.app.goo.gl/xA2Py4h82E1ydSsm8
+- NOTE: might need to open this Google Photos URL with an INCOGNITO Tab if not logged into Chrome with School-based email
 
-Introductory
+Introductory: using ```fullScreen()```
 - [ ] Draft Version: what this generally look like
 - [ ] Text Version: general hard-coded Text & text from .mp3 meta-data
   - Manditory: Song Title | Song Length | Position | Time Remaining
@@ -41,7 +43,9 @@ Introductory
 - [ ] DIVs & Ratio, Thinking-Like-a-Computer (TLC)
   - for every piece of Text, 2D Shape, and Image represent this by a rect()
 
-Intermediate
+- Grading: Upload Sketch & DIVs-with-numbers images to index.html
+
+Intermediate: using ```size()```
 - [ ] Draft Version: what this generally look like
 - [ ] Materials Design: described in margins | actually built with paper like Google Video
 - [ ] Functionality: described in margins | actually built with paper like Google Video
@@ -51,31 +55,16 @@ Intermediate
   - for every piece of Text, 2D Shape, and Image represent this by a rect()
   - record ```coordinates``` of where to start the rect() drawing, width & height separately
 
-Grading: [ ] Upload Sketch & DIVs-with-numbers images to index.html
+- Grading: Upload Sketch & DIVs-with-numbers images to index.html
 
-Advanced 
+Advanced: using ```size()```
 - [ ] Draft Version: what this generally look like
 - [ ] End User Experience (see previous)
 - [ ] DIVs & Ratio, Thinking-Like-a-Computer (TLC)
   - for every piece of Text, 2D Shape, and Image represent this by a rect()
   - record ```coordinates``` of where to start the rect() drawing, width & height separately
 
-### Differnet Versions of the Case Study
-  
-  
-  
-  
-:
-  
-  
-
-  - See: https://photos.app.goo.gl/xA2Py4h82E1ydSsm8
-  - NOTE: might need to open this Google Photos URL with an INCOGNITO Tab if not logged into Chrome with School-based email
-
-DUE: TBA
-- Part of introduction
-- Introductory uses ```fullScreen()```
-- Intermediate-Advanced uses button
+- Grading: Upload Sketch & DIVs-with-numbers images to index.html
 
 ---
 
