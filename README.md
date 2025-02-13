@@ -9,18 +9,16 @@ https://github.com/MercersKitchen/Review-Music-Player-20250131-P4-github.io
 
 ---
 
-# Rubrics for 
-
-### Grading
+# Rubrics for Grading
 - Submit GitHub Repository URL, parent pathway, in Google FORM
 - Note: completing this is a grade itself and has a due date
 
-### Repository Files, Folder Structure, and Submitted Host URL
+# Repository Files, Folder Structure, and Submitted Host URL
 - Folder Structure, each with ReadMe.txt: Images | Lesson Prototyping | Music | Music App | Website Dependancies
 - [ ] Website Dependancies
   - [ ] Folder Structure: favicon | child Pages | Images (specific to website only)
 
-DUE TBA
+DUE See Google Classroom
 
 # Music Player Case Study & Wire Frame
 - Purpose: Develop the creative-AI of the music player
@@ -34,15 +32,43 @@ DUE TBA
 - CAUTION: what AI-Images must consider
 - See Google Prototyping, Rapid Prototyping by Sketching: https://www.youtube.com/watch?v=JMjozqJS44M
 
+Introductory
+- [ ] Draft Version: what this generally look like
+- [ ] Text Version: general hard-coded Text & text from .mp3 meta-data
+  - Manditory: Song Title | Song Length | Position | Time Remaining
+- [ ] Materials Design: described in margins | actually built with paper like Google Video- [ ] Functionality: described in margins | actually built with paper like Google Video
+  - Single Function Buttons
+- [ ] DIVs & Ratio, Thinking-Like-a-Computer (TLC)
+  - for every piece of Text, 2D Shape, and Image represent this by a rect()
+
+Intermediate
+- [ ] Draft Version: what this generally look like
+- [ ] Materials Design: described in margins | actually built with paper like Google Video
+- [ ] Functionality: described in margins | actually built with paper like Google Video
+  - Mutliple Function Buttons
+  - AutoPlay: Play First Song in PlayList | Random Start | Choose a Song in the PlayList and then continue Sequence | Randome Start, Random Next 
+- [ ] DIVs & Ratio, Thinking-Like-a-Computer (TLC)
+  - for every piece of Text, 2D Shape, and Image represent this by a rect()
+  - record ```coordinates``` of where to start the rect() drawing, width & height separately
+
+Grading: [ ] Upload Sketch & DIVs-with-numbers images to index.html
+
+Advanced 
+- [ ] Draft Version: what this generally look like
+- [ ] End User Experience (see previous)
+- [ ] DIVs & Ratio, Thinking-Like-a-Computer (TLC)
+  - for every piece of Text, 2D Shape, and Image represent this by a rect()
+  - record ```coordinates``` of where to start the rect() drawing, width & height separately
+
 ### Differnet Versions of the Case Study
-  - [ ] Draft Version: what this generally look like
-  - [ ] Text Version: general hard-coded Text & text from .mp3 meta-data
-  - [ ] Materials Design: described in margins | actually built with paper like Google Video
-  - [ ] Functionality: described in margins | actually built with paper like Google Video
-- [ ] DIVs & Ratio, Thinking-Like-a-Computer (TLC):
-  - [ ] for every piece of Text, 2D Shape, and Image represent this by a rect()
-  - [ ] record ```coordinates``` of where to start the rect() drawing & width & height separately
-- [ ] Upload Sketch & DIVs-with-numbers images to index.html
+  
+  
+  
+  
+:
+  
+  
+
   - See: https://photos.app.goo.gl/xA2Py4h82E1ydSsm8
   - NOTE: might need to open this Google Photos URL with an INCOGNITO Tab if not logged into Chrome with School-based email
 
