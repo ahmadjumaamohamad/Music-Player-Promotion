@@ -85,6 +85,7 @@ DUE: 20250303
 - 1 week for intro & web tools
 - 2 weeks for HTML & GitHub Files
 - ~3 weeks, HTML in Responsive Design, see https://www.w3schools.com/html/html_responsive.asp
+- Make a summary of the Responsibe Elements (most already taught in in HTML1)
 
 ### Intermediate: Client-side 3 Credit
 
